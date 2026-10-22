@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_GITHUB_USERNAME and YOUR_LEETCODE_USERNAME below -->
-
 <!-- Animated header banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Ankita%20.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Learning&descAlignY=58" alt="header" />
@@ -39,8 +37,9 @@
 ## 🧠 LeetCode stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Wanna-Be/?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/Wanna-Be?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </p>
+
 
 ---
 
