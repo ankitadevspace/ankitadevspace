@@ -26,7 +26,7 @@
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,C,redis,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,c,redis,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
 </p>
 
 <p>
