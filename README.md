@@ -56,14 +56,9 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/ankitadevspace">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadevspace&theme=tokyo-night"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</p>
+
+<!-- Activity graph will be added using our own GitHub Actions workflow -->
+
 
 
 ---
