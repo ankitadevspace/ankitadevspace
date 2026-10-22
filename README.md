@@ -5,8 +5,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Solving+problems+on+LeetCode;Learning+something+new+every+day" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+cool+things+with+code;Solving+problems+on+LeetCode;Learning+something+new+every+day;Solving+real-world+problems%2C+supporting+business+goals%2C+and+building+software+that+helps+people" alt="typing animation" />
 </p>
+
 
 ---
 
