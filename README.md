@@ -26,7 +26,12 @@
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,SQL,redis,js,react,nodejs,cpp,postgres,git,github,docker,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSMS" />
 </p>
 
 ---
