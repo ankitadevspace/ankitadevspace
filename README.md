@@ -2,7 +2,7 @@
 
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Ankita%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Learning&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Ankita%20.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Learning&descAlignY=58" alt="header" />
 </p>
 
 <!-- Typing animation -->
@@ -26,7 +26,7 @@
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,C,redis,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
 </p>
 
 <p>
