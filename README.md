@@ -25,13 +25,15 @@
 
 ## 🛠️ Tech stack
 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,c,redis,js,react,nodejs,cpp,git,github,docker,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,c,redis,js,react,nodejs,cpp,git,github,docker,vscode,azure" alt="Tech stack" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSMS" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 </p>
 
 ---
