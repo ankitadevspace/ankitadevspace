@@ -73,13 +73,14 @@
 
 ## 🐍 Contribution snake
 
-<!-- Needs the GitHub Action described in the chat. Delete this section if you skip it. -->
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitadevspace/ankitadevspace/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/ankitadevspace/ankitadevspace/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitadevespace/ankitadevespace/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ankitadevespace/ankitadevespace/output/github-snake.svg" />
   </picture>
 </p>
+
 
 ---
 
