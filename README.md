@@ -103,9 +103,11 @@
   <a href="https://leetcode.com/u/Wanna-Be/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitadevspace&color=blueviolet&style=flat-square&label=Profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ankitadevspace&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 <!--
 **ankitadevspace/ankitadevspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
