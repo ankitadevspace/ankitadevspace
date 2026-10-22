@@ -59,9 +59,11 @@
 
 <!-- Activity graph will be added using our own GitHub Actions workflow -->
 
-## 🧊 3D Contribution Graph
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+## 🌈 3D Contribution Graph
+
+![Night Rainbow 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
