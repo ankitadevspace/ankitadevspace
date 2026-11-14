@@ -17,7 +17,7 @@
 | | |
 |---|---|
 | 🚀 **Project** | [ReleaseFlow](https://github.com/ankitadevspace/project-repo) — Software Deployment & Release Manager |
-| 📚 **Learning** | System Design, OOPs, SOLID |
+| 📚 **Learning** | System Design, SOLID |
 | 🧩 **Practicing** | Data Structures & Algorithms on LeetCode |
 | 🤝 **Looking to collaborate on** | Open source, web apps, AI tools |
 
